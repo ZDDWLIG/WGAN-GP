@@ -1,7 +1,7 @@
 # GAN-pytorch
 GAN and WGAN-gp implemented with pytorch and test on the mnist dataset
 
-#MNIST test results
+# MNIST test results
 
 ![epoch0](https://github.com/ZDDWLIG/GAN-pytorch/blob/master/image/mnist_epoch%3D0.png)
 
