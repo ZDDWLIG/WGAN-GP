@@ -1,7 +1,7 @@
 import torch as th
 from torch.utils.data import DataLoader
 from torchvision import datasets,transforms
-from GAN_module import GAN,test
+from GAN_module import WGAN_gp,test
 NoiseSize=100
 BatchSize=512
 EpochNum=5000
