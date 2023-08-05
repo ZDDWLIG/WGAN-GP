@@ -1,11 +1,11 @@
-# GAN-pytorch
+# GAN and WGAN-GP
 GAN and WGAN-gp implemented with pytorch and test on the mnist dataset
 
 # Installation
 Clone this repo:
 
 ```
-  git clone https://github.com/ZDDWLIG/GAN-pytorch.git
+  git clone https://github.com/ZDDWLIG/WGAN-GP.git
   cd path/to/GAN-pytorch-master
 ```
 
