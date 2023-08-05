@@ -1,6 +1,30 @@
 # GAN-pytorch
 GAN and WGAN-gp implemented with pytorch and test on the mnist dataset
 
+# Installation
+Clone this repo:
+
+```
+  git clone https://github.com/ZDDWLIG/GAN-pytorch.git
+  cd path/to/GAN-pytorch-master
+```
+
+Use conda to manage the python environment:
+
+```
+  conda create -n GAN python=3.8
+  conda activate GAN
+  pip install -r requirements.txt
+```
+# Train
+
+For example, if you want to train WGAN-gp , then run：
+
+```
+  python WGAN-GP.py
+```
+
+
 # MNIST test results
 
 ## Epoch 0
