@@ -1,12 +1,7 @@
-import os
-
 import torch as th
-import torch.nn as nn
-import torch.optim as optim
 from torch.utils.data import DataLoader
 from torchvision import datasets,transforms
-from module import GAN,test
-import numpy as np
+from GAN_module import GAN,test
 NoiseSize=300
 BatchSize=128
 EpochNum=500
